@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
 deploy:
 type: git
-repo: git@github.com:<hanchen6>/<hanchen6>.github.io.git
+repo: git@github.com:<hanchen6>/<hanchen6>.github.io.git
 branch: master
